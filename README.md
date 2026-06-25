@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20850961.svg)](https://doi.org/10.5281/zenodo.20850961)
+
 # Validated Sapphire Vortex-Propagation Framework
 
 This repository contains the simulation notebook, processed output tables, and figure files associated with the manuscript:
